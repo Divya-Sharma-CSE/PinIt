@@ -1,0 +1,32 @@
+Vision Statement:
+The project aims to improve the efficiency of students with a simple collaborative calendar extension.
+Instead of relying on screenshots of to-do lists, deadline messages scattered across platforms, 
+the tools aims to provide a single, shared source for deadlines for groups and individuals- accessible directly form laptop.
+
+How it all begun:
+During my first semester, one of my friends used Microsoft To Do to keep track of upcoming deadlines. To keep the rest of us informed, he would regularly share screenshots of his task list in group chats. While this worked temporarily, it had several limitations:
+- Information was static and outdated quickly
+- Collaborative to an extent
+- Less useful for ones who check their socials Less
+Then I got an idea for a lightweight, collaborative calendar for small groups to track shared academic deadlines in real time.
+
+Motivation:
+As a Computer Science student, I wanted to learn modern tech stacks by building something practical rather than through isolated tutorials.
+
+Target Users:
+- College students working in study groups
+- Project teams tracking shared deadlines
+- Friends preparing for exams, submissions, or events together
+
+Core Idea:
+- One member can add or update an event
+- The event immediately shows up on the calendar of each member
+- Maintains coherency
+
+Leaning objectives:
+- Learn how browser extensions work
+- Implement frontend‑backend communication
+- 
+- Javascript, React, 
+
+The goal is to turn a simple classroom workaround into a thoughtfully designed collaborative productivity tool, while growing as a developer by building it.
